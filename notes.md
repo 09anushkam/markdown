@@ -95,15 +95,15 @@ This is line 4
 | :-------: | :-------: |  
 |  Anushka  | Murade    |
 |  Adiraj   | Murade    |
-|  Ajit     | Murade    |
-
-<!-- shortcut : search "markdown table generator" on google -->
-[Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables "table generator")
+|  Ajit     | Murade    |  
 
 | First Name | Last Name |
 |:----------:|:---------:|
 |  Anushka   |   Murade  |
-|   Adiraj   |   Murade  |
+|   Adiraj   |   Murade  |  
+
+-> Shortcut : search "markdown table generator" on google
+[Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables "table generator")
 
 ## Escape characters using \
 
